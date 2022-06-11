@@ -20,3 +20,9 @@ Other findings include a very clear negative correlation between a borrower's ra
 I start by showing the distribution of the 5 most common Occupations and Listing categories, also the percentage of finished loans, using relative bar plots. Then I move on to show the effect on Borrower's rate on finished loans and that the chance of successful loans is lower between 0.2 and 0.35, this is shown using a violinplot followed by a pie chart.
 
 I also show some of the bivariate interesting insights, regarding Occupation and Listing Categories and which lead to a higher chance of a successful loan. This is shown by a Faceted bar plot.
+
+## Files in this project
+
+- Notebooks: Shows the analysis process.
+- Output: Shows the findings.
+
